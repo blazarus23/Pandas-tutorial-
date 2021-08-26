@@ -1,4 +1,5 @@
-# Pandas-tutorial-
-Pandas learning tutorial completed using Corey Schafer YouTube channel 
+# Pandas-tutorials investigating Stack Overflow & Sales data
+Pandas learning tutorial completed using Corey Schafer & Keith Galli YouTube channels
 
-Link to channel: https://www.youtube.com/c/Coreyms
+Corey Schafer: https://www.youtube.com/c/Coreyms
+Keith Galli: https://www.youtube.com/c/KGMIT/videos
